@@ -94,5 +94,3 @@
   - [AI-Forever Kandinsky](https://github.com/ai-forever) - KANDINSKY 2 - RU MODELS
 
 </details>
-
-This updated version includes all missing items from your original list. Now everything should be properly categorized and structured for easy access. 🚀 Let me know if you need further adjustments! 😊
