@@ -94,3 +94,70 @@
   - [AI-Forever Kandinsky](https://github.com/ai-forever) - KANDINSKY 2 - RU MODELS
 
 </details>
+
+
+# 📝 AI Text Tools & Resources
+
+<details>
+  <summary>✍️ Text Generation</summary>
+
+  - [NovelAI](https://novelai.net/) - NOVEL GEN
+  - [Prompt Explorer](https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935) - PROMPT EXPLORER
+  - [ChatGPT](https://chat.openai.com/chat) - CHAT GPT
+  - [Open Assistant](https://open-assistant.io/chat) - OPEN ASSISTANT
+  - [MiniGPT-4](https://minigpt-4.github.io/) - MINICHAT GPT (IMG RECOGNITION)
+
+</details>
+
+<details>
+  <summary>🧠 AI Models</summary>
+
+  - [GPT4ALL](https://github.com/nomic-ai/gpt4all) - GPT4ALL
+  - [AutoGPT](https://github.com/Torantulino/Auto-GPT) - AUTOGPT
+  - [Vicuna](https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g/tree/main) - VICUNA
+  - [GPT4-X Alpaca](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/tree/main) - GPT4-X ALPACA
+  - [Vicuna 13B](https://huggingface.co/TheBloke/vicuna-13B-1.1-GPTQ-4bit-128g) - VICUNA 13B
+  - [Alpaca 13B](https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g) - ALPACA 13B
+  - [Pygmalion 7B](https://huggingface.co/gozfarb/pygmalion-7b-4bit-128g-cuda) - PYGMALION 7B
+  - [Pygmalion 6B](https://huggingface.co/mayaeary/pygmalion-6b_dev-4bit-128g) - PYGMALION 6B
+  - [Stable Vicuna 13B](https://huggingface.co/TheBloke/stable-vicuna-13B-GPTQ/tree/main) - STABLE VICUNA 13B
+  - [Mosaic Base](https://huggingface.co/mosaicml/mpt-7b) - MOSAIC BASE
+  - [Mosaic Instruct](https://huggingface.co/mosaicml/mpt-7b-instruct) - MOSAIC INSTRUCT
+  - [Mosaic Chat](https://huggingface.co/mosaicml/mpt-7b-chat) - MOSAIC CHAT
+  - [Mosaic 65K StoryWriter](https://huggingface.co/mosaicml/mpt-7b-storywriter) - MOSAIC 65K STORYWRITER
+  - [WizardLM 7B Censored](https://huggingface.co/TheBloke/wizardLM-7B-GPTQ) - WIZARDLM 7B CENSORED
+  - [WizardLM 7B Uncensored](https://huggingface.co/TheBloke/WizardLM-7B-uncensored-GPTQ) - WIZARDLM 7B UNCENSORED
+  - [Mosaic 4Bit 65K StoryWriter](https://huggingface.co/OccamRazor/mpt-7b-storywriter-4bit-128g) - MOSAIC 4BIT 65K STORYWRITER
+
+</details>
+
+<details>
+  <summary>🖥️ Web UI & Training</summary>
+
+  - [Oobabooga 1-Click Install](https://github.com/oobabooga/text-generation-webui) - OOBABOOGA 1 CLICK
+  - [Oobabooga](https://github.com/oobabooga/text-generation-webui) - OOBABOOGA
+
+</details>
+
+<details>
+  <summary>🎭 AI Characters & Editors</summary>
+
+  - [Bot Prompts](https://botprompts.net/) - FREE CHARACTERS
+  - [Character Editor](https://zoltanai.github.io/character-editor/) - CHARACTER EDITOR
+
+</details>
+
+<details>
+  <summary>📖 Guides & Resources</summary>
+
+  - [Character Creation Guide](https://rentry.org/chai-pygmalion-tips) - CHARACTER CREATE GUIDE
+
+</details>
+
+<details>
+  <summary>🛠️ AI Model Creators</summary>
+
+  - [TheBloke Models](https://huggingface.co/TheBloke) - THE BLOKE
+  - [KaiokenDev - Extending Context](https://kaiokendev.github.io/til#extending-context-to-8k) - KAIOKENDEV
+
+</details>
